@@ -1,3 +1,4 @@
+FactoryFactotum.py
 yourscript.py
 yourscript.egg-info/PKG-INFO
 yourscript.egg-info/SOURCES.txt

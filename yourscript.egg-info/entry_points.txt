@@ -1,4 +1,4 @@
 
         [console_scripts]
-        yourscript=yourscript:cli
+        yourscript=FactoryFactotum:cli
     
